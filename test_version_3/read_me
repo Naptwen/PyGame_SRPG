@@ -7,3 +7,4 @@ Add world tile base buildings
 Add save load by file name
 Update Game AI order hierarchy
 Update Game code pipeline for optimazation
+Update Game character image file by open source // not the wall image which is base on warcraft2 by Blizzard license
